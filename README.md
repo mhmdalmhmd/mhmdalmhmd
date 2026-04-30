@@ -1,43 +1,50 @@
 <div align="center">
 
-# أهلاً بك في عالم محمد |Muhammad 👋
-### مبرمج ويب & صانع محتوى على يوتيوب
+# أهلاً بك في بروفايل حمودة سوفت | Hamouda Soft 👋
+### مبرمج ويب & صانع محتوى تقني على يوتيوب
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/>
+<img src="https://github.com" width="50%"/>
 
 ---
 
 ### 💻 من أنا؟
-أنا **محمد**، مبرمج ويب شغوف ببناء تجارب رقمية مميزة.
-بجانب البرمجة، بشارك رحلتي وخبرتي معكم على قناتي **"Hamouda Soft_حمودة سوفت
-"** على يوتيوب.
+أنا **محمد**، مبرمج ويب ومؤسس قناة **حمودة سوفت**. 
+أهتم بتبسيط مفاهيم البرمجة ومشاركة الشروحات التقنية لمساعدة المطورين العرب.
 
 ---
 
-### 📺 تابعني على يوتيوب
-[![YouTube Channel](https://shields.io)]([https://youtube.com]
+### 🎬 تابع جديد "حمودة سوفت" على يوتيوب
+[![YouTube Channel](https://shields.io)](https://youtube.com/@hamoudasoft-v4s?si=ryR3xFIe9-g_FB32)
+
 ---
 
-### 🛠️ الأدوات والتقنيات
+### 🛠️ تقنياتي المفضلة (Stack)
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
-![React](https://shields.io)
+![PHP](https://shields.io)
+![Bootstrap](https://shields.io)
 
 ---
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%"/>
+### 📊 إحصائيات GitHub
+![Stats](https://vercel.app)
+<br>
+![Top Langs](https://vercel.app)
+
+---
 
 <details>
-<summary><strong>🎵 ماذا أسمع الآن؟</strong></summary>
+<summary><strong>🎵 Mood & Vibe</strong></summary>
 <br>
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://spotify.com)
+[![Spotify](https://vercel.app)](https://spotify.com)
 </details>
 
 ---
 
-### 📊 إحصائيات البروفايل
-![Totals Hits](https://komarev.com)
-[![Telegram](https://shields.io)](https://t.me/spxd007)
+### 📫 تواصل معي
+[![Telegram](https://shields.io)](https://t.me)
+
+![Profile Views](https://komarev.com)
 
 </div>
