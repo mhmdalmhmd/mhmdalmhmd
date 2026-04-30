@@ -1,16 +1,44 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+# أهلاً بك في عالم ريموند مي 👋
+### مبرمج ويب & صانع محتوى على يوتيوب
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/>
+
+---
+
+### 💻 من أنا؟
+أنا **محمد**، مبرمج ويب شغوف ببناء تجارب رقمية مميزة.
+بجانب البرمجة، بشارك رحلتي وخبرتي معكم على قناتي **"ريموند مي"** على يوتيوب.
+
+---
+
+### 📺 تابعني على يوتيوب
+[![YouTube Channel](https://shields.io)](https://youtube.com) 
+*(تأكد من تعديل الرابط لرابط قناتك الفعلي)*
+
+---
+
+### 🛠️ الأدوات والتقنيات
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+
+---
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%"/>
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
+<summary><strong>🎵 ماذا أسمع الآن؟</strong></summary>
+<br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://spotify.com)
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+---
+
+### 📊 إحصائيات البروفايل
+![Totals Hits](https://komarev.com)
+[![Telegram](https://shields.io)](https://t.me/spxd007)
+
 </div>
