@@ -15,9 +15,7 @@
 ---
 
 ### 📺 تابعني على يوتيوب
-[![YouTube Channel](https://shields.io)]([https://youtube.com](https://youtube.com/@hamoudasoft-v4s?si=ryR3xFIe9-g_FB32)) 
-*(تأكد من تعديل الرابط لرابط قناتك الفعلي)*
-
+[![YouTube Channel](https://shields.io)]([https://youtube.com/@hamoudasoft-v4s?si=ryR3xFIe9-g_FB32]
 ---
 
 ### 🛠️ الأدوات والتقنيات
